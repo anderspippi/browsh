@@ -1,0 +1,12 @@
+{
+  ...
+  "scripts": {
+    ...
+    "sign": "node scripts/sign.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.2",
+    ...
+  }
+}
+
